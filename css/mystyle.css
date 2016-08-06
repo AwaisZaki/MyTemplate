@@ -1,0 +1,39 @@
+.back{
+    
+    background-image: url(../images/back1.jpg)
+}
+@import url("font-awesome.min.css");
+*{
+padding: 0px;
+margin:0px;
+}
+
+
+div#header
+{
+    background-color:orange;
+}
+
+.color1
+{
+    color:black;
+    font-size: 15px;
+}
+
+.color2
+{
+    color:white;
+    font-size: 15px;
+}
+
+.head1
+{
+    display: inline-block;
+  
+    margin-left: 300px;
+}
+
+#pic
+{
+   
+}
